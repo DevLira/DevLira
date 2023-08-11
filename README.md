@@ -12,7 +12,7 @@ Sou um desenvolvedor de software com experiência em uma linguagem de programaç
 - Habilidades interpessoais: trabalho em equipe, comunicação eficaz, automotivação, autodidata.
  
 ### 💻 - Projetos
-Agiliza Mei: Software para agilizar o processo de abertura de empresas, python-flask-postgres-trello, projeto que fez com que meu grupo ganhasse o hackaweek.  [(Repositorio - Agiliza Mei)]((https://github.com/DevLira/Pyninjas)
+Agiliza Mei: Software para agilizar o processo de abertura de empresas, python-flask-postgres-trello, projeto que fez com que meu grupo ganhasse o hackaweek.  [(Repositorio - Agiliza Mei)](https://github.com/DevLira/Pyninjas)
 
 ### 🎓 - Educação
 - Proway - MoreDevs2Blu - 420 horas
