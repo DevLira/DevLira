@@ -20,9 +20,8 @@ Agiliza Mei: Software para agilizar o processo de abertura de empresas, python-f
 - Unicesumar - Graduação - Cibersegurança - Iniciando
 
 ### 📞 - Contato
-- E-mail: nick.lirinha45@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/nicolas-lira-50491320b/
-- GitHub: https://github.com/LiraNick
+- E-mail: nick.lirinha45@gmail.com
+
 
 ### 🚀 - Considerações finais
 Se você está procurando um desenvolvedor de software junior, apaixonado por tecnologia e com habilidades interpessoais excepcionais, eu sou a pessoa certa para você! Entre em contato comigo para discutir como posso ajudar sua empresa a alcançar seus objetivos de tecnologia.
